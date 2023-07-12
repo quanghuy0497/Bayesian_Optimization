@@ -10,5 +10,5 @@ Illustration of how BayesOpt works:
 
   
 ## Theoretical background
-+ My [**blog**](https://quanghuy0497.github.io/mathematic/2022/12/10/bayesopt.html) about Bayesian Optimization
++ My [**blog**](https://quanghuy0497.github.io/mathematic/2022/12/12/bayesopt.html) about Bayesian Optimization
 + My [**slide**](https://github.com/quanghuy0497/Bayesian_Optimization/blob/main/slide.pdf) about Bayesian Optimization
